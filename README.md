@@ -1,12 +1,12 @@
 # 👋 Hello, I'm [Pratyaksha Beri](https://github.com/Shad0wMazt3r)!
 ## A little bit about me
-I am a Cyber Security Engineering junior at Iowa State University, passionate about all things technology and cybersecurity. I love learning new things and putting myself in places to try something new!
+I am a Cyber Security Engineering senior at Iowa State University, passionate about all things technology and cybersecurity. I love learning new things and putting myself in places to try something new!
 
 # 👀 [What I am working on](https://github.com/Shad0wMazt3r?tab=repositories)
 I am always working on something interesting and expanding my knowledge in various fields:
 
 ## Cybersecurity
-- Currently studying for certifications in Cloud Computing Security and Cyberessentials from FedVTE.
+- Currently studying for certifications and working towards attaining my degree.
 - Participating in Capture The Flag (CTF) competitions and Cyber Defense Competitions (CDCs) to sharpen my skills.
 
 ## Software & Web Development
